@@ -18,7 +18,7 @@ Tablet/smartphones via an app available in the various app stores.
 Desktop & Mobile via a web facing version.
 
 ### Potential Issues:
-Image compressors really do not like long thin images. Could this be a potential problem?
+Image compressors really do not like long thin images. Could this be a potential problem? What about using transparent pngs?
 
 Ditto on resizing the scanned images of book spines. Possibly work with the publishers to get a digital representation format that is scalable. Ray tracing??
 
