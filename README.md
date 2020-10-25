@@ -51,6 +51,8 @@ Amazon API https://developer.amazonservices.com/ - book dimensions, referral lin
 
 WorldCat API - libraries nearby, other necessary book info
 
+OCLC API http://classify.oclc.org/classify2/api_docs/index.html - LCC/DDC numbers
+
 Goodreads API - get individual users' book lists
 
 ### Other Resources:
