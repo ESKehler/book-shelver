@@ -1,5 +1,5 @@
 # book-shelver
-Library stack browser GUI. Interactable google street view for libraries. Early iterations will allow a single user to create a shelf or two of the books they own.
+Library stack browser GUI. Interactable Google Street View for libraries. Early iterations will allow a single user to create a shelf or two of the books they own.
 
 ## Why?
 Many libraries are moving away from storing all their books in the same space the patrons use. One of the most charming parts of walking through a library is looking for one book, but discovering several closely related books in the same section. This is called serendipitous discovery. When the stacks move out of the library (or we're all stuck at home during a pandemic) the potential for serendipitous discovery goes down. 
