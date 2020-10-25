@@ -45,7 +45,7 @@ How important is realism?
 Default dimensions of shelves, bookcases, rows, etc.
 
 ### Technologies to use:
-Unity? 
+Unity? https://learn.unity.com/tutorials
 
 Amazon API https://developer.amazonservices.com/ - book dimensions, referral links
 
