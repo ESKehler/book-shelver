@@ -39,6 +39,11 @@ Pull book dimensions from Amazon or another site. Longest by shortest should be 
 
 Allow libraries to specify their preferred layout to match the real life library.
 
+### Things to consider:
+How important is realism?
+
+Default dimensions of shelves, bookcases, rows, etc.
+
 ### Technologies to use:
 Unity? 
 
