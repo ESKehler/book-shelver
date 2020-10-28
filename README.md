@@ -57,3 +57,4 @@ Goodreads API - get individual users' book lists
 
 ### Other Resources:
 Explanation of book spine formats - https://danq.me/2019/01/27/iso-6357/
+How to make a 3D book cover in CSS - https://scastiel.dev/posts/2020-07-23-animated-3d-book-css/ (spine not included)
